@@ -1,0 +1,18 @@
+table,th,td
+{
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+
+a:link{
+    color: rgb(35, 189, 203);
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+h1{
+    align-items: center;
+}
